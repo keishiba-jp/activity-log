@@ -1,4 +1,4 @@
-🌐 Language  
+Language  
 🇯🇵 日本語 | 🇺🇸 [English](./README_EN.md)
 
 ---
@@ -49,7 +49,7 @@
 
 詳細な活動履歴はこちらにまとめています。
 
-➡ [Active Log（活動記録）](./activity-log_jp.md)
+→ [Active Log（活動記録）](./activity-log_jp.md)
 
 ---
 
