@@ -46,7 +46,6 @@ External Academic Programs, Research Exposure, and Technical Activities
 
 - Carbon management and CCS technical sessions
 - Research presentations and panel discussions
-- Technical facility visits (including Osaki CoolGen)
 
 ---
 
