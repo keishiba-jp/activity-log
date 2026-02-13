@@ -49,7 +49,7 @@ but also in the environments and processes through which technology emerges.
 
 A chronological record of academic programs, technical activities, and research exposure:
 
-→ [Active Log](./activity-log_EN.md)
+→ [Active Log](./activity-log_en.md)
 
 ---
 
