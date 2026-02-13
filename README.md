@@ -1,4 +1,4 @@
-# 📘 Active Log
+#  Active Log
 
 **Kei Shibayama**  
 Engineering Student  
@@ -6,9 +6,9 @@ External Academic Programs, Research Exposure, and Technical Activities
 
 ---
 
-## 🗓 2025
+##  2025
 
-### 🔬 KEK Winter Science Camp — Participant (4 days)
+###  KEK Winter Science Camp — Participant (4 days)
 **High Energy Accelerator Research Organization (KEK)** — Dec 2025
 
 - Particle detection experiment (scintillation counters)
@@ -21,18 +21,18 @@ External Academic Programs, Research Exposure, and Technical Activities
 
 ---
 
-### 🌏 Global Engineering Camp — Participant  
+###  Global Engineering Camp — Participant  
 **National Institute of Technology, Toba College** — Sep 2025
 
 - International collaborative engineering program
 - Team-based technical project work
 - Cross-cultural technical communication
 
-🔗 https://www.toba-cmt.ac.jp/topics/entry/20140/
+→ https://www.toba-cmt.ac.jp/topics/entry/20140/
 
 ---
 
-### 🛰 KOSEN-Thailand International Engineering Workshop — Selected Participant  
+###  KOSEN-Thailand International Engineering Workshop — Selected Participant  
 **National Institute of Technology (KOSEN) International Program** — Aug 2025
 
 - Satellite-based social problem solving workshop
@@ -41,7 +41,7 @@ External Academic Programs, Research Exposure, and Technical Activities
 
 ---
 
-### 🌍 International Workshop on Carbon Management — Participant (Observer)  
+###  International Workshop on Carbon Management — Participant (Observer)  
 **IEAGHG / NEDO** — Mar 2025
 
 - Carbon management and CCS technical sessions
@@ -50,9 +50,9 @@ External Academic Programs, Research Exposure, and Technical Activities
 
 ---
 
-## 🗓 2024
+##  2024
 
-### 🚀 Space Human Resource Development Program — Participant (Year-long)  
+###  Space Human Resource Development Program — Participant (Year-long)  
 **National Institute of Technology, Niihama College**
 
 - Overview of the space industry
@@ -61,7 +61,7 @@ External Academic Programs, Research Exposure, and Technical Activities
 
 ---
 
-### 🌱 Carbon Recycling Entrepreneurship Program — Participant
+###  Carbon Recycling Entrepreneurship Program — Participant
 
 - Technology-based entrepreneurship workshop
 - Expert lectures
@@ -69,40 +69,40 @@ External Academic Programs, Research Exposure, and Technical Activities
 
 ---
 
-### ♻ Carbon Recycling × Career Development Program — Participant
+###  Carbon Recycling × Career Development Program — Participant
 
 - Energy and sustainability lectures
 - Dialogue sessions with researchers and industry professionals
 
 ---
 
-## 🗓 2023
+##  2023
 
-### 💻 Independent Creative Projects — Individual
+###  Independent Creative Projects — Individual
 
 - Video production
 - Game development using C programming language
 
 ---
 
-## 🏆 Competitions and Awards
+##  Competitions and Awards
 
-### 🛰 National KOSEN Space Contest — Excellence Award (Mar 2025)
+###  National KOSEN Space Contest — Excellence Award (Mar 2025)
 
 **SFMS (Space Forest Management System)**  
 Satellite data, AI, and GIS-based forest management proposal
 
 ---
 
-### 🤖 The Championship of Robotics Engineers (CoRE-1) — Competition Winner (2025)
+###  The Championship of Robotics Engineers (CoRE-1) — Competition Winner (2025)
 
 Role: CAD / Mechanical Design
 
 ---
 
-## 🏭 Industry and Technical Exposure
+##  Industry and Technical Exposure
 
-### 🚗 MAZDA Special Lecture Program — Participant (2025)
+###  MAZDA Special Lecture Program — Participant (2025)
 
 - Carbon recycling technology lectures
 - R&D facility visit
@@ -110,7 +110,7 @@ Role: CAD / Mechanical Design
 
 ---
 
-## 🎓 Campus Leadership
+##  Campus Leadership
 
 ### Vice Secretary-General, Student Council  
 National Institute of Technology, Kure College  
@@ -118,7 +118,7 @@ Apr 2025 — Dec 2025
 
 ---
 
-## 📝 Notes
+##  Notes
 
 - This log records verified participation and outcomes
 - Chronologically organized
