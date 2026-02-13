@@ -1,7 +1,7 @@
 #  Active Log
 
 **Kei Shibayama**  
-Engineering Student  
+Mechanical Engineering Student  
 External Academic Programs, Research Exposure, and Technical Activities
 
 ---
