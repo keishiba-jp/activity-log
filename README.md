@@ -1,125 +1,76 @@
-#  Active Log
+# Kei Shibayama
 
-**Kei Shibayama**  
-Engineering Student  
-External Academic Programs, Research Exposure, and Technical Activities
+Engineering student focused on mechanical systems, space utilization, and experimental research environments.
 
 ---
 
-##  2025
+## About
 
-###  KEK Winter Science Camp — Participant (4 days)
-**High Energy Accelerator Research Organization (KEK)** — Dec 2025
+Mechanical engineering student at the National Institute of Technology, Kure College (KOSEN).  
+Interested in experimental science, satellite-based systems, and engineering approaches to real-world problem solving.
 
-- Particle detection experiment (scintillation counters)
-- Data acquisition, analysis, and group presentation
-- Facility tours  
-  - cERL accelerator  
-  - Belle II experiment  
-  - Photon Factory
-- Observed research infrastructure and design history
+Focus areas include:
 
----
-
-###  Global Engineering Camp — Participant  
-**National Institute of Technology, Toba College** — Sep 2025
-
-- International collaborative engineering program
-- Team-based technical project work
-- Cross-cultural technical communication
-
-→ https://www.toba-cmt.ac.jp/topics/entry/20140/
+- Experimental measurement and instrumentation  
+- Mechanical system design (CAD)  
+- Space utilization and remote sensing applications  
+- Environmental and industrial technology systems  
 
 ---
 
-###  KOSEN-Thailand International Engineering Workshop — Selected Participant  
-**National Institute of Technology (KOSEN) International Program** — Aug 2025
+## Research Interests
 
-- Satellite-based social problem solving workshop
-- Analysis of societal issues in Thailand
-- International student collaborative project
-
----
-
-###  International Workshop on Carbon Management — Participant (Observer)  
-**IEAGHG / NEDO** — Mar 2025
-
-- Carbon management and CCS technical sessions
-- Research presentations and panel discussions
-- Technical facility visits (including Osaki CoolGen)
+- Experimental physics environments and measurement systems  
+- Satellite-based monitoring and data utilization  
+- Engineering design under real-world constraints  
+- Environmental systems and resource management  
 
 ---
 
-##  2024
+## Activity Log
 
-###  Space Human Resource Development Program — Participant (Year-long)  
-**National Institute of Technology, Niihama College**
+Chronological record of academic and technical activities:
 
-- Overview of the space industry
-- Social problem-solving workshops
-- International collaborative education program
+[View Full Activity Log]
+➡[JP](./activity-log_jp.md)
+➡[EN](./activity-log_en.md)
 
----
+Includes:
 
-###  Carbon Recycling Entrepreneurship Program — Participant
-
-- Technology-based entrepreneurship workshop
-- Expert lectures
-- Social implementation planning
-
----
-
-###  Carbon Recycling × Career Development Program — Participant
-
-- Energy and sustainability lectures
-- Dialogue sessions with researchers and industry professionals
+- KEK Winter Science Camp (Particle Physics)  
+- International Engineering Workshop (Thailand KOSEN)  
+- National KOSEN Space Contest (SFMS system proposal)  
+- Robotics competition (CAD mechanical design)  
+- Industry and carbon recycling programs  
 
 ---
 
-##  2023
+## Technical Experience
 
-###  Independent Creative Projects — Individual
+### Experimental Work
+- Particle detection using scintillation counters  
+- Signal measurement with oscilloscopes  
+- Data acquisition and analysis workflows  
 
-- Video production
-- Game development using C programming language
+### Engineering Design
+- CAD-based mechanical system design  
+- System concept design integrating satellite data, AI, and GIS  
 
----
-
-##  Competitions and Awards
-
-###  National KOSEN Space Contest — Excellence Award (Mar 2025)
-
-**SFMS (Space Forest Management System)**  
-Satellite data, AI, and GIS-based forest management proposal
-
----
-
-###  The Championship of Robotics Engineers (CoRE-1) — Competition Winner (2025)
-
-Role: CAD / Mechanical Design
+### Research Environment Exposure
+- Accelerator facilities and large-scale experiments  
+- Industrial R&D environments  
+- Environmental and energy technology programs  
 
 ---
 
-##  Industry and Technical Exposure
+## Institutional Affiliations
 
-###  MAZDA Special Lecture Program — Participant (2025)
-
-- Carbon recycling technology lectures
-- R&D facility visit
-- Engineer interaction sessions
+- National Institute of Technology, Kure College — Mechanical Engineering  
+- Student Council Vice Secretary (2025)  
+- Robotics Club Member (2023–2025)
 
 ---
 
-##  Campus Leadership
+## Contact
 
-### Vice Secretary-General, Student Council  
-National Institute of Technology, Kure College  
-Apr 2025 — Dec 2025
-
----
-
-##  Notes
-
-- This log records verified participation and outcomes
-- Chronologically organized
-- Fact-based documentation only
+contact@keishiba.jp
